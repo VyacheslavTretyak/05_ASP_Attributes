@@ -1,0 +1,17 @@
+﻿td{
+	padding: 5px 10px;		
+}
+th {
+	padding: 5px 10px;
+	color:#6d2a2a;
+}
+.inputField{
+	margin: 10px;
+}
+.action{
+	margin: 15px;	
+	
+}
+.field-validation-error{
+	color: red;
+}
