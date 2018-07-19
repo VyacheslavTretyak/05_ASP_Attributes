@@ -24,6 +24,7 @@ namespace Books.Controllers
 			}
 			return RedirectToAction("List");
 		}
+
 		public ActionResult Create()
 		{			
 			ViewBag.page = "Create";
